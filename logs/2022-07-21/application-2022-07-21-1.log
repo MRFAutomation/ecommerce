@@ -1,0 +1,40 @@
+[INFO ] 21 Jul 2022 13:37:58,561 base.pkg.BaseTest:50 - Chrome Driver initialized
+[INFO ] 21 Jul 2022 13:37:58,745 base.pkg.BaseTest:53 - Window maximized
+[INFO ] 21 Jul 2022 13:38:20,785 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:38:20,908 base.pkg.BaseTest:59 - Click SignIn button
+[INFO ] 21 Jul 2022 13:38:21,196 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:38:22,441 base.pkg.BaseTest:73 - Enter username on login form
+[INFO ] 21 Jul 2022 13:38:22,599 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:38:22,650 base.pkg.BaseTest:73 - Enter password on login form
+[INFO ] 21 Jul 2022 13:38:22,764 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:38:22,820 base.pkg.BaseTest:59 - Click SignIn button on login form
+[INFO ] 21 Jul 2022 13:38:22,932 base.pkg.BaseTest:96 - Add delay for: 2 seconds
+[INFO ] 21 Jul 2022 13:38:24,941 base.pkg.BaseTest:110 - Move to Hot deals
+[INFO ] 21 Jul 2022 13:38:28,830 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:38:28,880 base.pkg.BaseTest:59 - Click on Hot deals > Sale button
+[INFO ] 21 Jul 2022 13:38:33,036 base.pkg.BaseTest:110 - Move to first product on Hot deals > Sale page
+[INFO ] 21 Jul 2022 13:38:33,099 base.pkg.BaseTest:127 - Taking screenshot
+[INFO ] 21 Jul 2022 13:38:33,769 base.pkg.BaseTest:118 - dateTime method called
+[INFO ] 21 Jul 2022 13:39:15,741 base.pkg.BaseTest:50 - Chrome Driver initialized
+[INFO ] 21 Jul 2022 13:39:15,893 base.pkg.BaseTest:53 - Window maximized
+[INFO ] 21 Jul 2022 13:39:20,326 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:39:20,427 base.pkg.BaseTest:59 - Click SignIn button
+[INFO ] 21 Jul 2022 13:39:20,809 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:39:21,992 base.pkg.BaseTest:73 - Enter username on login form
+[INFO ] 21 Jul 2022 13:39:22,184 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:39:22,241 base.pkg.BaseTest:73 - Enter password on login form
+[INFO ] 21 Jul 2022 13:39:22,382 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:39:22,432 base.pkg.BaseTest:59 - Click SignIn button on login form
+[INFO ] 21 Jul 2022 13:39:22,533 base.pkg.BaseTest:96 - Add delay for: 2 seconds
+[INFO ] 21 Jul 2022 13:39:24,536 base.pkg.BaseTest:110 - Move to Hot deals
+[INFO ] 21 Jul 2022 13:39:25,065 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:39:25,179 base.pkg.BaseTest:59 - Click on Hot deals > Sale button
+[INFO ] 21 Jul 2022 13:39:28,117 base.pkg.BaseTest:110 - Move to first product on Hot deals > Sale page
+[INFO ] 21 Jul 2022 13:39:28,280 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:39:28,345 base.pkg.BaseTest:59 - Click on Hot deals > Sale > addToCart button
+[INFO ] 21 Jul 2022 13:39:28,506 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:39:30,223 base.pkg.BaseTest:59 - Click on Hot deals > Sale > addToCart button > View Cart Button
+[INFO ] 21 Jul 2022 13:39:36,313 base.pkg.BaseTest:80 - Wait For Element Visibility
+[INFO ] 21 Jul 2022 13:39:36,366 base.pkg.BaseTest:59 - Click on Hot deals > Sale > addToCart button > View Cart Button > Remove Product from Cart
+[INFO ] 21 Jul 2022 13:39:36,483 base.pkg.BaseTest:96 - Add delay for: 2 seconds
+[INFO ] 21 Jul 2022 21:22:05,466 base.pkg.BaseTest:50 - Chrome Driver initialized

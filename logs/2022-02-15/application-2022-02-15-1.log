@@ -1,0 +1,171 @@
+[INFO ] 15 Feb 2022 16:05:15,561 base.pkg.BaseTest:54 - [[ChromeDriver: chrome on WINDOWS (40e1f7549e3ba0ab47de533d25cf7ede)] -> xpath: //div[@class="header_bar-sign_in"]//span[text()="Sign in / sign up"]]
+[INFO ] 15 Feb 2022 16:05:17,050 base.pkg.BaseTest:54 - [[ChromeDriver: chrome on WINDOWS (40e1f7549e3ba0ab47de533d25cf7ede)] -> xpath: //button[@class="btn  regular-button  submit"]/span[text()='Sign in']]
+[INFO ] 15 Feb 2022 16:05:19,750 base.pkg.BaseTest:54 - [[ChromeDriver: chrome on WINDOWS (40e1f7549e3ba0ab47de533d25cf7ede)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]//a[@href="sale-products/"]]
+[INFO ] 15 Feb 2022 16:05:22,352 base.pkg.BaseTest:54 - [[ChromeDriver: chrome on WINDOWS (40e1f7549e3ba0ab47de533d25cf7ede)] -> xpath: //button[@class="btn  regular-button add-to-cart product-add2cart productid-33"]/span[text()='Add to cart']]
+[INFO ] 15 Feb 2022 16:12:14,273 base.pkg.BaseTest:54 - click method[[ChromeDriver: chrome on WINDOWS (e2c3a8518e2cda603b5edb6639514e30)] -> xpath: //div[@class="header_bar-sign_in"]//span[text()="Sign in / sign up"]]
+[INFO ] 15 Feb 2022 16:12:14,506 base.pkg.BaseTest:61 - SendKeys methodProxy element for: DefaultElementLocator 'By.id: login-email'
+[INFO ] 15 Feb 2022 16:12:15,345 base.pkg.BaseTest:61 - SendKeys method[[ChromeDriver: chrome on WINDOWS (e2c3a8518e2cda603b5edb6639514e30)] -> id: login-password]
+[INFO ] 15 Feb 2022 16:12:15,501 base.pkg.BaseTest:54 - click method[[ChromeDriver: chrome on WINDOWS (e2c3a8518e2cda603b5edb6639514e30)] -> xpath: //button[@class="btn  regular-button  submit"]/span[text()='Sign in']]
+[INFO ] 15 Feb 2022 16:12:18,341 base.pkg.BaseTest:54 - click method[[ChromeDriver: chrome on WINDOWS (e2c3a8518e2cda603b5edb6639514e30)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]//a[@href="sale-products/"]]
+[INFO ] 15 Feb 2022 16:12:20,944 base.pkg.BaseTest:54 - click method[[ChromeDriver: chrome on WINDOWS (e2c3a8518e2cda603b5edb6639514e30)] -> xpath: //button[@class="btn  regular-button add-to-cart product-add2cart productid-33"]/span[text()='Add to cart']]
+[INFO ] 15 Feb 2022 16:43:09,855 base.pkg.BaseTest:60 - Click SignIn button[[ChromeDriver: chrome on WINDOWS (c0d30fcea3ec6829757551b83aaf1b7b)] -> xpath: //div[@class="header_bar-sign_in"]//span[text()="Sign in / sign up"]]
+[INFO ] 15 Feb 2022 16:43:10,062 base.pkg.BaseTest:73 - Enter usernameProxy element for: DefaultElementLocator 'By.id: login-email'
+[INFO ] 15 Feb 2022 16:43:10,868 base.pkg.BaseTest:73 - Enter password[[ChromeDriver: chrome on WINDOWS (c0d30fcea3ec6829757551b83aaf1b7b)] -> id: login-password]
+[INFO ] 15 Feb 2022 16:43:11,011 base.pkg.BaseTest:60 - Click SignIn button[[ChromeDriver: chrome on WINDOWS (c0d30fcea3ec6829757551b83aaf1b7b)] -> xpath: //button[@class="btn  regular-button  submit"]/span[text()='Sign in']]
+[INFO ] 15 Feb 2022 16:43:13,851 base.pkg.BaseTest:104 - Move to Hot deals[[ChromeDriver: chrome on WINDOWS (c0d30fcea3ec6829757551b83aaf1b7b)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]/li[@class="leaf first active"]/following-sibling::li[@class="leaf has-sub"]/span[text()='Hot deals']]
+[INFO ] 15 Feb 2022 16:43:14,105 base.pkg.BaseTest:54 - click method[[ChromeDriver: chrome on WINDOWS (c0d30fcea3ec6829757551b83aaf1b7b)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]//a[@href="sale-products/"]]
+[INFO ] 15 Feb 2022 16:43:16,288 base.pkg.BaseTest:104 - Move to first product on Sale page[[ChromeDriver: chrome on WINDOWS (c0d30fcea3ec6829757551b83aaf1b7b)] -> xpath: //a[text()='Bluetooth Smartwatch with Touch Screen and Fitness Tracker']]
+[INFO ] 15 Feb 2022 16:43:16,425 base.pkg.BaseTest:54 - click method[[ChromeDriver: chrome on WINDOWS (c0d30fcea3ec6829757551b83aaf1b7b)] -> xpath: //button[@class="btn  regular-button add-to-cart product-add2cart productid-33"]/span[text()='Add to cart']]
+[INFO ] 15 Feb 2022 16:49:56,817 base.pkg.BaseTest:60 - Click SignIn button
+[INFO ] 15 Feb 2022 16:49:56,837 base.pkg.BaseTest:80 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (0f194dc4ee039ae1a22ac77ffe1455da)] -> xpath: //div[@class="header_bar-sign_in"]//span[text()="Sign in / sign up"]]
+[INFO ] 15 Feb 2022 16:49:57,025 base.pkg.BaseTest:73 - Enter username
+[INFO ] 15 Feb 2022 16:49:57,059 base.pkg.BaseTest:80 - waitForElementVisibility: Proxy element for: DefaultElementLocator 'By.id: login-email'
+[INFO ] 15 Feb 2022 16:49:57,895 base.pkg.BaseTest:73 - Enter password
+[INFO ] 15 Feb 2022 16:49:57,910 base.pkg.BaseTest:80 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (0f194dc4ee039ae1a22ac77ffe1455da)] -> id: login-password]
+[INFO ] 15 Feb 2022 16:49:58,021 base.pkg.BaseTest:60 - Click SignIn button
+[INFO ] 15 Feb 2022 16:49:58,038 base.pkg.BaseTest:80 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (0f194dc4ee039ae1a22ac77ffe1455da)] -> xpath: //button[@class="btn  regular-button  submit"]/span[text()='Sign in']]
+[INFO ] 15 Feb 2022 16:50:00,179 base.pkg.BaseTest:104 - Move to Hot deals
+[INFO ] 15 Feb 2022 16:50:00,820 base.pkg.BaseTest:54 - click method[[ChromeDriver: chrome on WINDOWS (0f194dc4ee039ae1a22ac77ffe1455da)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]//a[@href="sale-products/"]]
+[INFO ] 15 Feb 2022 16:50:00,830 base.pkg.BaseTest:80 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (0f194dc4ee039ae1a22ac77ffe1455da)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]//a[@href="sale-products/"]]
+[INFO ] 15 Feb 2022 16:50:02,914 base.pkg.BaseTest:104 - Moved to first product on Sale page
+[INFO ] 15 Feb 2022 16:50:03,050 base.pkg.BaseTest:60 - Click on addToCart button
+[INFO ] 15 Feb 2022 16:50:03,063 base.pkg.BaseTest:80 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (0f194dc4ee039ae1a22ac77ffe1455da)] -> xpath: //button[@class="btn  regular-button add-to-cart product-add2cart productid-33"]/span[text()='Add to cart']]
+[INFO ] 15 Feb 2022 16:52:18,482 base.pkg.BaseTest:82 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (fadc5209b6005935cb16b59bba6e053a)] -> xpath: //div[@class="header_bar-sign_in"]//span[text()="Sign in / sign up"]]
+[INFO ] 15 Feb 2022 16:52:18,540 base.pkg.BaseTest:62 - Click SignIn button
+[INFO ] 15 Feb 2022 16:52:18,729 base.pkg.BaseTest:82 - waitForElementVisibility: Proxy element for: DefaultElementLocator 'By.id: login-email'
+[INFO ] 15 Feb 2022 16:52:19,481 base.pkg.BaseTest:76 - Enter username
+[INFO ] 15 Feb 2022 16:52:19,597 base.pkg.BaseTest:82 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (fadc5209b6005935cb16b59bba6e053a)] -> id: login-password]
+[INFO ] 15 Feb 2022 16:52:19,625 base.pkg.BaseTest:76 - Enter password
+[INFO ] 15 Feb 2022 16:52:19,715 base.pkg.BaseTest:82 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (fadc5209b6005935cb16b59bba6e053a)] -> xpath: //button[@class="btn  regular-button  submit"]/span[text()='Sign in']]
+[INFO ] 15 Feb 2022 16:52:19,745 base.pkg.BaseTest:62 - Click SignIn button
+[INFO ] 15 Feb 2022 16:52:21,830 base.pkg.BaseTest:106 - Move to Hot deals
+[INFO ] 15 Feb 2022 16:52:22,550 base.pkg.BaseTest:54 - click method[[ChromeDriver: chrome on WINDOWS (fadc5209b6005935cb16b59bba6e053a)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]//a[@href="sale-products/"]]
+[INFO ] 15 Feb 2022 16:52:22,620 base.pkg.BaseTest:82 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (fadc5209b6005935cb16b59bba6e053a)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]//a[@href="sale-products/"]]
+[INFO ] 15 Feb 2022 16:52:25,016 base.pkg.BaseTest:106 - Move to first product on Sale page
+[INFO ] 15 Feb 2022 16:52:25,167 base.pkg.BaseTest:82 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (fadc5209b6005935cb16b59bba6e053a)] -> xpath: //button[@class="btn  regular-button add-to-cart product-add2cart productid-33"]/span[text()='Add to cart']]
+[INFO ] 15 Feb 2022 16:52:25,214 base.pkg.BaseTest:62 - Click on addToCart button
+[INFO ] 15 Feb 2022 16:59:43,581 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 16:59:45,088 base.pkg.BaseTest:50 - ChromeDriver initialized
+[INFO ] 15 Feb 2022 16:59:45,213 base.pkg.BaseTest:52 - Window maximized
+[INFO ] 15 Feb 2022 16:59:45,214 base.pkg.BaseTest:38 - createChromeDriverSession created
+[INFO ] 15 Feb 2022 16:59:49,726 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 16:59:49,744 base.pkg.BaseTest:85 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (6be456c54b7c884bd8ae8f82d40845a9)] -> xpath: //div[@class="header_bar-sign_in"]//span[text()="Sign in / sign up"]]
+[INFO ] 15 Feb 2022 16:59:49,788 base.pkg.BaseTest:65 - Click SignIn button
+[INFO ] 15 Feb 2022 16:59:49,969 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 16:59:50,005 base.pkg.BaseTest:85 - waitForElementVisibility: Proxy element for: DefaultElementLocator 'By.id: login-email'
+[INFO ] 15 Feb 2022 16:59:50,692 base.pkg.BaseTest:79 - Enter username
+[INFO ] 15 Feb 2022 16:59:50,794 base.pkg.BaseTest:85 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (6be456c54b7c884bd8ae8f82d40845a9)] -> id: login-password]
+[INFO ] 15 Feb 2022 16:59:50,820 base.pkg.BaseTest:79 - Enter password
+[INFO ] 15 Feb 2022 16:59:50,916 base.pkg.BaseTest:85 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (6be456c54b7c884bd8ae8f82d40845a9)] -> xpath: //button[@class="btn  regular-button  submit"]/span[text()='Sign in']]
+[INFO ] 15 Feb 2022 16:59:50,945 base.pkg.BaseTest:65 - Click SignIn button
+[INFO ] 15 Feb 2022 16:59:51,011 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 16:59:51,011 base.pkg.BaseTest:99 - Add delay for: 2 seconds
+[INFO ] 15 Feb 2022 16:59:53,024 base.pkg.BaseTest:112 - Move to Hot deals
+[INFO ] 15 Feb 2022 16:59:53,569 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 16:59:53,584 base.pkg.BaseTest:57 - click method[[ChromeDriver: chrome on WINDOWS (6be456c54b7c884bd8ae8f82d40845a9)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]//a[@href="sale-products/"]]
+[INFO ] 15 Feb 2022 16:59:53,596 base.pkg.BaseTest:85 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (6be456c54b7c884bd8ae8f82d40845a9)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]//a[@href="sale-products/"]]
+[INFO ] 15 Feb 2022 16:59:55,825 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 16:59:55,827 base.pkg.BaseTest:112 - Move to first product on Sale page
+[INFO ] 15 Feb 2022 16:59:55,972 base.pkg.BaseTest:85 - waitForElementVisibility: [[ChromeDriver: chrome on WINDOWS (6be456c54b7c884bd8ae8f82d40845a9)] -> xpath: //button[@class="btn  regular-button add-to-cart product-add2cart productid-33"]/span[text()='Add to cart']]
+[INFO ] 15 Feb 2022 16:59:56,022 base.pkg.BaseTest:65 - Click on addToCart button
+[INFO ] 15 Feb 2022 16:59:56,091 base.pkg.BaseTest:99 - Add delay for: 2 seconds
+[INFO ] 15 Feb 2022 17:02:14,169 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 17:02:15,706 base.pkg.BaseTest:50 - ChromeDriver initialized
+[INFO ] 15 Feb 2022 17:02:15,825 base.pkg.BaseTest:52 - Window maximized
+[INFO ] 15 Feb 2022 17:02:15,826 base.pkg.BaseTest:38 - createChromeDriverSession created
+[INFO ] 15 Feb 2022 17:02:20,255 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 17:02:20,255 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:02:20,306 base.pkg.BaseTest:65 - Click SignIn button
+[INFO ] 15 Feb 2022 17:02:20,451 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 17:02:20,452 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:02:21,147 base.pkg.BaseTest:79 - Enter username
+[INFO ] 15 Feb 2022 17:02:21,221 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:02:21,255 base.pkg.BaseTest:79 - Enter password
+[INFO ] 15 Feb 2022 17:02:21,338 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:02:21,380 base.pkg.BaseTest:65 - Click SignIn button
+[INFO ] 15 Feb 2022 17:02:21,475 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 17:02:21,476 base.pkg.BaseTest:99 - Add delay for: 2 seconds
+[INFO ] 15 Feb 2022 17:02:23,487 base.pkg.BaseTest:112 - Move to Hot deals
+[INFO ] 15 Feb 2022 17:02:24,127 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 17:02:24,149 base.pkg.BaseTest:57 - click method[[ChromeDriver: chrome on WINDOWS (55bb53416a1d95f022ea48f99ee36584)] -> xpath: //ul[@class="nav navbar-nav top-main-menu"]//a[@href="sale-products/"]]
+[INFO ] 15 Feb 2022 17:02:24,149 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:02:26,287 base.pkg.BaseTest:32 - Initialized PageFactory elements
+[INFO ] 15 Feb 2022 17:02:26,288 base.pkg.BaseTest:112 - Move to first product on Sale page
+[INFO ] 15 Feb 2022 17:02:26,427 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:02:26,459 base.pkg.BaseTest:65 - Click on addToCart button
+[INFO ] 15 Feb 2022 17:02:26,559 base.pkg.BaseTest:99 - Add delay for: 2 seconds
+[INFO ] 15 Feb 2022 17:08:49,792 base.pkg.BaseTest:50 - ChromeDriver initialized
+[INFO ] 15 Feb 2022 17:08:49,926 base.pkg.BaseTest:52 - Window maximized
+[INFO ] 15 Feb 2022 17:08:49,927 base.pkg.BaseTest:38 - createChromeDriverSession created
+[INFO ] 15 Feb 2022 17:08:54,804 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:08:54,857 base.pkg.BaseTest:65 - Click SignIn button
+[INFO ] 15 Feb 2022 17:08:55,000 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:08:55,707 base.pkg.BaseTest:79 - Enter username
+[INFO ] 15 Feb 2022 17:08:55,793 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:08:55,822 base.pkg.BaseTest:79 - Enter password
+[INFO ] 15 Feb 2022 17:08:55,893 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:08:55,924 base.pkg.BaseTest:65 - Click SignIn button
+[INFO ] 15 Feb 2022 17:08:55,984 base.pkg.BaseTest:99 - Add delay for: 2 seconds
+[INFO ] 15 Feb 2022 17:08:57,988 base.pkg.BaseTest:112 - Move to Hot deals
+[INFO ] 15 Feb 2022 17:08:58,571 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:08:58,666 base.pkg.BaseTest:65 - Click on Hot deals > Sale button
+[INFO ] 15 Feb 2022 17:09:00,900 base.pkg.BaseTest:112 - Move to first product on Hot deals > Sale page
+[INFO ] 15 Feb 2022 17:09:01,096 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:09:01,127 base.pkg.BaseTest:65 - Click on Hot deals > Sale > addToCart button
+[INFO ] 15 Feb 2022 17:09:01,197 base.pkg.BaseTest:99 - Add delay for: 2 seconds
+[INFO ] 15 Feb 2022 17:09:25,298 base.pkg.BaseTest:50 - ChromeDriver initialized
+[INFO ] 15 Feb 2022 17:09:25,426 base.pkg.BaseTest:52 - Window maximized
+[INFO ] 15 Feb 2022 17:09:25,427 base.pkg.BaseTest:38 - createChromeDriverSession created
+[INFO ] 15 Feb 2022 17:09:29,495 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:09:29,556 base.pkg.BaseTest:65 - Click SignIn button
+[INFO ] 15 Feb 2022 17:09:29,691 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:09:30,410 base.pkg.BaseTest:79 - Enter username
+[INFO ] 15 Feb 2022 17:09:30,512 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:09:30,545 base.pkg.BaseTest:79 - Enter password
+[INFO ] 15 Feb 2022 17:09:30,625 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:09:30,658 base.pkg.BaseTest:65 - Click SignIn button
+[INFO ] 15 Feb 2022 17:09:30,716 base.pkg.BaseTest:99 - Add delay for: 2 seconds
+[INFO ] 15 Feb 2022 17:09:32,718 base.pkg.BaseTest:112 - Move to Hot deals
+[INFO ] 15 Feb 2022 17:09:36,658 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:09:36,691 base.pkg.BaseTest:65 - Click on Hot deals > Sale button
+[INFO ] 15 Feb 2022 17:09:41,600 base.pkg.BaseTest:112 - Move to first product on Hot deals > Sale page
+[INFO ] 15 Feb 2022 17:09:41,641 base.pkg.BaseTest:127 - Taking screenshot
+[INFO ] 15 Feb 2022 17:09:41,959 base.pkg.BaseTest:119 - dateTime method called
+[INFO ] 15 Feb 2022 17:11:51,244 base.pkg.BaseTest:50 - ChromeDriver initialized
+[INFO ] 15 Feb 2022 17:11:51,377 base.pkg.BaseTest:52 - Window maximized
+[INFO ] 15 Feb 2022 17:11:51,378 base.pkg.BaseTest:38 - createChromeDriverSession created
+[INFO ] 15 Feb 2022 17:11:54,795 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:11:54,845 base.pkg.BaseTest:65 - Click SignIn button
+[INFO ] 15 Feb 2022 17:11:55,051 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:11:55,747 base.pkg.BaseTest:79 - Enter username on login form
+[INFO ] 15 Feb 2022 17:11:55,825 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:11:55,855 base.pkg.BaseTest:79 - Enter password on login form
+[INFO ] 15 Feb 2022 17:11:55,911 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:11:55,969 base.pkg.BaseTest:65 - Click SignIn button onn login form
+[INFO ] 15 Feb 2022 17:11:56,041 base.pkg.BaseTest:99 - Add delay for: 2 seconds
+[INFO ] 15 Feb 2022 17:11:58,052 base.pkg.BaseTest:112 - Move to Hot deals
+[INFO ] 15 Feb 2022 17:11:58,571 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:11:58,643 base.pkg.BaseTest:65 - Click on Hot deals > Sale button
+[INFO ] 15 Feb 2022 17:12:00,974 base.pkg.BaseTest:112 - Move to first product on Hot deals > Sale page
+[INFO ] 15 Feb 2022 17:12:01,132 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:12:01,164 base.pkg.BaseTest:65 - Click on Hot deals > Sale > addToCart button
+[INFO ] 15 Feb 2022 17:12:01,227 base.pkg.BaseTest:99 - Add delay for: 2 seconds
+[INFO ] 15 Feb 2022 17:13:32,934 base.pkg.BaseTest:50 - Chrome Driver initialized
+[INFO ] 15 Feb 2022 17:13:33,082 base.pkg.BaseTest:52 - Window maximized
+[INFO ] 15 Feb 2022 17:13:33,085 base.pkg.BaseTest:38 - Chrome Driver Session created
+[INFO ] 15 Feb 2022 17:13:37,844 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:13:37,896 base.pkg.BaseTest:65 - Click SignIn button
+[INFO ] 15 Feb 2022 17:13:38,033 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:13:38,733 base.pkg.BaseTest:79 - Enter username on login form
+[INFO ] 15 Feb 2022 17:13:38,801 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:13:38,832 base.pkg.BaseTest:79 - Enter password on login form
+[INFO ] 15 Feb 2022 17:13:38,903 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:13:38,935 base.pkg.BaseTest:65 - Click SignIn button on login form
+[INFO ] 15 Feb 2022 17:13:38,996 base.pkg.BaseTest:99 - Add delay for: 2 seconds
+[INFO ] 15 Feb 2022 17:13:41,000 base.pkg.BaseTest:112 - Move to Hot deals
+[INFO ] 15 Feb 2022 17:13:41,747 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:13:41,778 base.pkg.BaseTest:65 - Click on Hot deals > Sale button
+[INFO ] 15 Feb 2022 17:13:44,028 base.pkg.BaseTest:112 - Move to first product on Hot deals > Sale page
+[INFO ] 15 Feb 2022 17:13:44,241 base.pkg.BaseTest:85 - Wait For Element Visibility
+[INFO ] 15 Feb 2022 17:13:44,275 base.pkg.BaseTest:65 - Click on Hot deals > Sale > addToCart button
+[INFO ] 15 Feb 2022 17:13:44,364 base.pkg.BaseTest:99 - Add delay for: 2 seconds

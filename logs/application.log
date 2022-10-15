@@ -1,0 +1,10 @@
+[INFO ] 12 Oct 2022 21:50:23,447 base.pkg.EcomBaseTest:50 - Chrome Driver initialized
+[INFO ] 12 Oct 2022 21:50:23,627 base.pkg.EcomBaseTest:53 - Window maximized
+[INFO ] 12 Oct 2022 21:50:42,261 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 12 Oct 2022 21:50:57,762 base.pkg.EcomBaseTest:127 - Taking screenshot
+[INFO ] 12 Oct 2022 21:50:58,592 base.pkg.EcomBaseTest:118 - dateTime method called
+[INFO ] 12 Oct 2022 21:51:54,777 base.pkg.EcomBaseTest:50 - Chrome Driver initialized
+[INFO ] 12 Oct 2022 21:51:54,938 base.pkg.EcomBaseTest:53 - Window maximized
+[INFO ] 12 Oct 2022 21:52:27,947 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 12 Oct 2022 21:52:43,507 base.pkg.EcomBaseTest:127 - Taking screenshot
+[INFO ] 12 Oct 2022 21:52:44,262 base.pkg.EcomBaseTest:118 - dateTime method called

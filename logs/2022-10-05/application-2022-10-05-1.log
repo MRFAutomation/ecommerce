@@ -1,0 +1,36 @@
+[INFO ] 05 Oct 2022 11:18:29,087 base.pkg.EcomBaseTest:50 - Chrome Driver initialized
+[INFO ] 05 Oct 2022 11:18:29,232 base.pkg.EcomBaseTest:53 - Window maximized
+[INFO ] 05 Oct 2022 11:18:52,251 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:18:52,313 base.pkg.EcomBaseTest:59 - Click SignIn button
+[INFO ] 05 Oct 2022 11:18:52,496 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:18:54,762 base.pkg.EcomBaseTest:73 - Enter username on login form
+[INFO ] 05 Oct 2022 11:18:54,890 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:18:54,945 base.pkg.EcomBaseTest:73 - Enter password on login form
+[INFO ] 05 Oct 2022 11:18:55,073 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:18:55,123 base.pkg.EcomBaseTest:59 - Click SignIn button on login form
+[INFO ] 05 Oct 2022 11:18:55,248 base.pkg.EcomBaseTest:96 - Add delay for: 2 seconds
+[INFO ] 05 Oct 2022 11:18:57,254 base.pkg.EcomBaseTest:110 - Move to Hot deals
+[INFO ] 05 Oct 2022 11:18:57,414 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:19:12,528 base.pkg.EcomBaseTest:127 - Taking screenshot
+[INFO ] 05 Oct 2022 11:19:13,090 base.pkg.EcomBaseTest:118 - dateTime method called
+[INFO ] 05 Oct 2022 11:23:52,661 base.pkg.EcomBaseTest:50 - Chrome Driver initialized
+[INFO ] 05 Oct 2022 11:23:52,801 base.pkg.EcomBaseTest:53 - Window maximized
+[INFO ] 05 Oct 2022 11:24:04,323 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:24:04,388 base.pkg.EcomBaseTest:59 - Click SignIn button
+[INFO ] 05 Oct 2022 11:24:04,576 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:24:05,703 base.pkg.EcomBaseTest:73 - Enter username on login form
+[INFO ] 05 Oct 2022 11:24:05,827 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:24:05,875 base.pkg.EcomBaseTest:73 - Enter password on login form
+[INFO ] 05 Oct 2022 11:24:05,994 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:24:06,058 base.pkg.EcomBaseTest:59 - Click SignIn button on login form
+[INFO ] 05 Oct 2022 11:24:06,156 base.pkg.EcomBaseTest:96 - Add delay for: 2 seconds
+[INFO ] 05 Oct 2022 11:24:08,170 base.pkg.EcomBaseTest:110 - Move to Hot deals
+[INFO ] 05 Oct 2022 11:24:09,808 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:24:09,903 base.pkg.EcomBaseTest:59 - Click on Hot deals > Sale button
+[INFO ] 05 Oct 2022 11:24:13,912 base.pkg.EcomBaseTest:110 - Move to first product on Hot deals > Sale page
+[INFO ] 05 Oct 2022 11:24:14,066 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:24:14,107 base.pkg.EcomBaseTest:59 - Click on Hot deals > Sale > addToCart button
+[INFO ] 05 Oct 2022 11:24:14,189 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:24:15,983 base.pkg.EcomBaseTest:59 - Click on Hot deals > Sale > addToCart button > View Cart Button
+[INFO ] 05 Oct 2022 11:24:25,296 base.pkg.EcomBaseTest:80 - Wait For Element Visibility
+[INFO ] 05 Oct 2022 11:24:25,331 base.pkg.EcomBaseTest:59 - Click on Hot deals > Sale > addToCart button > View Cart Button > Remove Product from Cart
